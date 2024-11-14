@@ -1,9 +1,10 @@
-.container{width: 1165px;
+.container{width: 1365px;
 border: 5px solid darkred;
 margin: auto;
 height: 2041px;
 margin-top: 21px;
 margin-bottom: 36px;
+background: #F1F1F1;
 }
 .li1{color: #000;
   font-family: "Roboto", sans-serif;
@@ -42,11 +43,13 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
-.div1{width: 365px;
-	height: 357px;
-border: 2px solid darkred;
+.div1{width: 362px;
+height: 357px;
 margin-top: 27px;
-margin-left: 1px;
+margin-left: 10px;
+display: inline-block;
+border-radius: 0px 0px 5px 5px;
+background: #FFF;
 }
 .div2{width: 362px;
   display: inline-block;
@@ -86,4 +89,62 @@ height: 23px;
 position: absolute;
 top: 32px;
 left: 41px;
+}
+.div3{width: 365px;
+height: 357px;
+margin-top: 27px;
+margin-left: 1px;
+display: inline-block;
+position: relative;
+left: 30%;
+top: -384px;
+border-radius: 0px 0px 5px 5px;
+background: #FFF;
+}
+.div4{
+  position: relative;
+  width: 365px;
+}
+.img4{
+  position: absolute;
+  right: -1px;
+}
+.mpy5{color: #FFF;
+font-family: "Roboto", sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 200px;
+height: 23px;
+position: absolute;
+top: 32px;
+left: 41px;
+}
+.mpy6{
+position: absolute;
+top: 187px;
+color: #8A8787;
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 10px;
+padding-top: 68px;
+width: 290px;
+height: 36px;
+padding-left: 37px;
+}
+.img5{
+position: relative;
+top: 290px;
+left: 33px;
+}
+.mpy7{
+color: #8A8787;
+font-size: 10px;font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-style: normal;
+position: relative;
+left: 57px;
+top: 274px;
 }
