@@ -1,7 +1,6 @@
-.container{width: 1365px;
-border: 5px solid darkred;
+.container{width: 1300px;
 margin: auto;
-height: 1830px;
+height: 1628px;
 margin-top: 21px;
 margin-bottom: 36px;
 background: #F1F1F1;
@@ -34,7 +33,9 @@ font-style: normal;
 display: inline-block;
 margin-right: 35px;
 }
-.img1{vertical-align: middle;}
+.img1{vertical-align: middle;
+position: relative;
+top: 3px}
 .mpy1{margin-top: 42px;margin-left: 10px;
 color: #000;
 font-family: Roboto;
@@ -52,6 +53,7 @@ border-radius: 0px 0px 5px 5px;
 background: #FFF;
 position: relative;
 top: 12px;
+margin-right: 20px;
 }
 .div2{width: 362px;
 display: inline-block;
@@ -98,7 +100,7 @@ margin-top: 27px;
 margin-left: 1px;
 display: inline-block;
 position: relative;
-left: 30%;
+left: 31%;
 top: -541px;
 border-radius: 0px 0px 5px 5px;
 background: #FFF;
@@ -186,7 +188,7 @@ padding-top: 60px;
 width: 265px;
 height: 33px;
 padding-left: 37px;}
-.img7{position: absolute;top: 289px;
+.img7{position: absolute;top: 292px;
 left: 33px;
 }
 .mpy10{color: #8A8787;
@@ -195,7 +197,7 @@ font-weight: 700;
 font-style: normal;
 position: relative;
 left: 57px;
-top: 104px;}
+top: 106px;}
 .mpy11{color: #000;
 font-family: Roboto;
 font-size: 24px;
@@ -217,7 +219,6 @@ height: 904px;
 width: 758px;
 height: 430px;
 position: absolute;
-left: 10px;
 }
 .img9{
 width: 362px;
@@ -229,7 +230,6 @@ top: 13px;
 .img10{ width: 758px;
 height: 430px;
 position: absolute;
-left: 10px;
 top: 470px;
 }
 .img11{
@@ -259,4 +259,146 @@ font-family: "Roboto", sans-serif;
 .div8{
   position: relative;
   display: inline-block;
+}
+.div9{
+width: 1300px;
+margin: auto;
+height: 230px;
+background: #243043;
+position: relative;
+top: -455px;
+}
+.mpy13{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 135px;
+top: 40px;}
+.mpy14{
+color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 135px;
+top: 70px;
+}
+.mpy15{
+color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 135px;
+top: 100px;
+}
+.mpy16{
+color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 135px;
+top: 130px;
+}
+.mpy17{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 300px;
+top: 40px;}
+.mpy18{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 300px;
+top: 70px;}
+.mpy19{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 300px;
+top: 100px;}
+.mpy20{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 300px;
+top: 130px;
+}
+.mpy21{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 465px;
+top: 40px;
+}
+.mpy22{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 465px;
+top: 70px;
+}
+.mpy23{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 465px;
+top: 100px;
+}
+.mpy24{color: #818687;
+font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 465px;
+top: 130px;
+}
+.mpy25{color: #FFF;
+ font-family: "Roboto", sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: absolute;
+left: 600px;
+top: 40px;
+}
+.img13{
+  position: absolute;
+  left: 90%;
+  top: 60px;
 }
